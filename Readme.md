@@ -12,6 +12,8 @@ The first project focuses on strengthening core Python concepts through a series
 7. File I/O basics
 8. UDFs
 
+[Base Python Programming Exercise](https://github.com/anushree22vrm/PythonProjects/blob/master/Base%20Python%20Programming%20Exercise.ipynb)
+
 #### Project 2: Retail Sales Data Analysis
 This project analyzes transactional and customer data from a retail business to generate insights into sales performance, customer segmentation, and product category trends. The project showcases the complete data analysis pipeline using Python (pandas, NumPy, Matplotlib).
 ##### Data Used:
@@ -32,6 +34,8 @@ This project analyzes transactional and customer data from a retail business to 
 1. pandas, numpy for data transformation
 2. matplotlib, seaborn for visual exploration
 3. Merge operations for relational data handling
+
+[RetailSalesDataAnalysis](https://github.com/anushree22vrm/PythonProjects/blob/master/Retail_Project.ipynb)
 
 #### Project 3: Credit Card Data Analysis
 This project analyzes customer acquisition, repayment, and spend data for a credit card company to uncover customer behavior, repayment patterns, and revenue insights. The analysis showcases how credit card businesses can better manage risk and customer engagement using data.
@@ -54,6 +58,8 @@ Spend.csv: Customer spend behavior across months and categories<br>
 2. matplotlib, seaborn for visualization
 3. GroupBy and pivot tables for monthly/annual breakdowns
 
+[CreditCardDataAnalysis](https://github.com/anushree22vrm/PythonProjects/blob/master/Credit_CardProject.ipynb)
+
 #### Project 4: Insurance Claims Data Analysis
 This project analyzes insurance claim records and customer demographic data to uncover claim trends, fraud indicators, and customer behavior insights. It demonstrates data integration, cleaning, and analytical exploration using Python.
 
@@ -74,3 +80,4 @@ cust_demographics.csv: Demographic details of customers (age, income, gender, ma
 2. matplotlib, seaborn for plotting trends
 3. scipy.stats for statistical analysis
 
+[InsuranceClaimsDataAnalysis](https://github.com/anushree22vrm/PythonProjects/blob/master/Insurance_ClaimsProject.ipynb)
