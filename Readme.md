@@ -81,3 +81,43 @@ cust_demographics.csv: Demographic details of customers (age, income, gender, ma
 3. scipy.stats for statistical analysis
 
 [InsuranceClaimsDataAnalysis](https://github.com/anushree22vrm/PythonProjects/blob/master/Insurance_ClaimsProject.ipynb)
+
+#### Project 5: Basic Data Manipulation and Visualization
+This Jupyter notebook is a beginner-to-intermediate level project focused on exploring, cleaning, and analyzing structured data using the pandas library. It includes hands-on coding practice for fundamental operations that are widely used in data analysis, reporting, and business decision-making.
+
+##### Key Topics Covered
+
+##### 1. Data Cleaning
+* Handling missing values and zeros<br>
+* Changing data types<br>
+* Removing or renaming columns<br>
+
+##### 2. Data Transformation
+* Creating new columns using apply() and map()
+* Aggregating using groupby() and custom functions
+* Filtering and slicing data
+
+##### Data Exploration & Visualization
+* Using summary statistics to understand trends
+* Sorting and ranking values
+* Plotting bar charts, pie charts, and line plots with pandas & Matplotlib
+
+##### Working with Multiple DataFrames
+* Merging and joining datasets
+* Concatenation and appending data
+
+#### Project 6: Python Visualization on Sales Data
+This notebook explores data visualization techniques using Python libraries like Matplotlib and Seaborn, applied to a sales dataset from the pharmaceutical industry. It compares sales across years, regions, and market tiers to reveal business insights through compelling visual plots.
+
+##### Key Analyses Covered:<br>
+1. Bar Charts comparing sales by region (2015 vs 2016)<br>
+2. Pie Charts showing sales contribution by region<br>
+3. Stacked Bar Charts for multi-variable comparisons<br>
+4. Visualizations segmented by Tier, Product, and Month<br>
+5. Includes data cleaning and filtering steps for visual accuracy<br>
+
+##### Libraries Used
+1. Pandas
+2. Matplotlib
+3. Seaborn
+4. Numpy
