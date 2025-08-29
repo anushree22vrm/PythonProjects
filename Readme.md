@@ -121,3 +121,18 @@ This notebook explores data visualization techniques using Python libraries like
 2. Matplotlib
 3. Seaborn
 4. Numpy
+
+#### Project 7: Basic Statistics- Hypothesis Testing
+This project focuses on applying hypothesis testing techniques to solve various business problems using real-world datasets. The goal is to explore statistical methods to make data-driven decisions and validate assumptions through different tests.
+
+##### Key Analysis Covered:<br>
+1. Independent T Test
+2. Correlation Test
+3. Anova Test
+4. Hypothesis Formulation
+
+##### Libraries Used
+1. Pandas 
+2. NumPy 
+3. Matplotlib/Seaborn 
+4. SciPy/Statsmodels 
