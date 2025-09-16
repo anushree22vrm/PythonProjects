@@ -135,4 +135,8 @@ This project focuses on applying hypothesis testing techniques to solve various 
 1. Pandas 
 2. NumPy 
 3. Matplotlib/Seaborn 
-4. SciPy/Statsmodels 
+4. SciPy/Statsmodels
+
+#### Project 8: EDA- Shopping Behaviour
+This project performs Exploratory Data Analysis (EDA) on a shopping behavior dataset to uncover customer trends, preferences, and purchase patterns. The analysis helps in understanding consumer behavior, identifying key factors influencing purchases, and preparing the data for further machine learning or business insights.
+
