@@ -140,3 +140,7 @@ This project focuses on applying hypothesis testing techniques to solve various 
 #### Project 8: EDA- Shopping Behaviour
 This project performs Exploratory Data Analysis (EDA) on a shopping behavior dataset to uncover customer trends, preferences, and purchase patterns. The analysis helps in understanding consumer behavior, identifying key factors influencing purchases, and preparing the data for further machine learning or business insights.
 
+#### Project 9: 50+ Basic Python Practice Questions
+This repository contains a collection of 50+ Python practice questions with solutions, designed to strengthen your Python fundamentals. The exercises cover essential programming concepts, making this notebook a great resource for beginners and those preparing for coding interviews.
+
+
